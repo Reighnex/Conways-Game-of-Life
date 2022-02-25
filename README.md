@@ -1,2 +1,2 @@
 # Game_of_Life
-high school (second grade, 2020) project - making Conway's Game of Life
+High school project (second grade, 2020, in Data Structure class) - building Conway's Game of Life with C
